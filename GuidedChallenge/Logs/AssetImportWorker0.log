@@ -988,3 +988,101 @@ Received Import Request.
 Start importing Assets/GuidedProject/Shared/UI/Fonts/Felipa-Regular.ttf using Guid(a6110ddb390eff0418196d70613777cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '833f4dbb09a946d0809b2220b6bdddb7') in 0.034246 seconds 
   Import took 0.038049 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 401.494492 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop/Fonts/Lato-Black.ttf
+  artifactKey: Guid(2e47818f10d84c64da5e64ee7f8d9263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop/Fonts/Lato-Black.ttf using Guid(2e47818f10d84c64da5e64ee7f8d9263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5de7c44d5d0950608314a107f861f4') in 0.015979 seconds 
+  Import took 0.020621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.463077 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop/Animations/Clerk@Idle.fbx
+  artifactKey: Guid(b2e550a503624224a8f5ea40fbc9b5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop/Animations/Clerk@Idle.fbx using Guid(b2e550a503624224a8f5ea40fbc9b5a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5031430bbc9be12cbfbb4c42b2061486') in 0.033809 seconds 
+  Import took 0.038422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.946476 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop/AlienBoxTill.shadergraph
+  artifactKey: Guid(d73aa016c0e791342b20c796f4ad2414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop/AlienBoxTill.shadergraph using Guid(d73aa016c0e791342b20c796f4ad2414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bca950363e96946a47ebaea33b1669e3') in 0.008528 seconds 
+  Import took 0.012633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.653133 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop/Shaders
+  artifactKey: Guid(21dbda919a971e842b341b1827599152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop/Shaders using Guid(21dbda919a971e842b341b1827599152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e8ebd13f9d1d526c012ef8e69516bb') in 0.005895 seconds 
+  Import took 0.009857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 172.818884 seconds.
+  path: Assets/GuidedProject/AlienVideoGameShop/Materials/AlienLiquid.mat
+  artifactKey: Guid(d7b93337a1d4c624fa7e3108f9dfa1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GuidedProject/AlienVideoGameShop/Materials/AlienLiquid.mat using Guid(d7b93337a1d4c624fa7e3108f9dfa1b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b8dd9abf0af4cef160a32b4495b4ed') in 0.020555 seconds 
+  Import took 0.025161 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.979 seconds
+Domain Reload Profiling:
+	ReloadAssembly (979ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (811ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (268ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (284ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (196ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2687 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.7 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3361.
+Total: 3.240400 ms (FindLiveObjects: 0.235400 ms CreateObjectMapping: 0.111500 ms MarkObjects: 2.872400 ms  DeleteObjects: 0.020200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
